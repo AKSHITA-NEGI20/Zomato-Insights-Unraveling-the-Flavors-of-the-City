@@ -2,7 +2,7 @@
 ![images](https://github.com/user-attachments/assets/bce5f195-d28e-4a78-80f2-a12fd8e84097)
 
 
-# ZOMATO-DASHBOARD
+# Zomato Insights: Unraveling the Flavors of the City
 The Zomato dashboard provides a comprehensive overview of the restaurant industry, enabling users to gain valuable insights into customer preferences, dining costs, and restaurant ratings across various cuisines and locations. By leveraging the power of Power BI's interactive visualizations, this dashboard offers a data-driven approach to understanding the Zomato ecosystem.
 
 # Key features of the dashboard include:
